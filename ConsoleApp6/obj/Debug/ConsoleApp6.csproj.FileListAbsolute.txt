@@ -8,3 +8,6 @@ C:\Users\z003dsrc\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
 C:\Users\z003dsrc\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
 C:\Users\z003dsrc\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.Form1.resources
 C:\Users\z003dsrc\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.GenerateResource.cache
+C:\Users\Siemens\Source\Repos\Excel-Compate-Tool1\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Siemens\Source\Repos\Excel-Compate-Tool1\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Siemens\Source\Repos\Excel-Compate-Tool1\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
