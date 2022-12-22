@@ -27,14 +27,6 @@ namespace ConsoleApp6
             string revnew = @"c:\xls\diffs\new\";
             string revold = @"c:\xls\diffs\old\";
 
-
-
-
-
-
-
-
-
             foreach (Excel.Worksheet sheet in excelworkbook.Worksheets)
             {
                 if (revbool)
